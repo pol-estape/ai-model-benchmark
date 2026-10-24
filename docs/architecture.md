@@ -1,6 +1,7 @@
 # AI Model Benchmark — Architecture
 
 ## Overview
+
 The platform benchmarks the performance and task-specific accuracy of locally executed Large Language Models.
 
 ## Main components
